@@ -3,7 +3,7 @@
 
 <p align="left"> <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="janemyn29" /> </p>
 
-- 🔭 I’m currently working on [MyPassionHaven Blog](https://mypassionhaven.netlify.app/)
+- 🔭 I’m currently working on [Skill Spark](https://github.com/SkillSpark-Project)
 
 - 🌱 I’m currently learning **ReactJS.**
 
@@ -11,13 +11,9 @@
 
 - 👨‍💻 All of my projects are available at [https://myntt-portfolio.netlify.app/](https://myntt-portfolio.netlify.app/)
 
-- 📝 I regularly write articles on [https://mypassionhaven.netlify.app/](https://mypassionhaven.netlify.app/)
-
 - 💬 Ask me about **Asp.net core**
 
 - 📫 How to reach me **Myntt294@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/194zPPDQqoowq6SzVuhdMEkz3zaeSrqAq/view?usp=sharing](https://drive.google.com/file/d/194zPPDQqoowq6SzVuhdMEkz3zaeSrqAq/view?usp=sharing)
 
 - ⚡ Fun fact **I think I'm Funny**
 
